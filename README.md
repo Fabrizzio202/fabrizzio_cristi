@@ -8,4 +8,4 @@ Contiene ejercicios de ejemplo sobre:
 - Etiquetas (tags)
 
 Autor: Fabrizzio Cristi
-Fecha: 08/09/2025
+Fecha: 10/09/2025
